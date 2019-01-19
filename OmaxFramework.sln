@@ -1,0 +1,30 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{5DD5E4FA-CB73-4610-85AB-557B54E96AA9}") = "OmaxFramework", "OmaxFramework\OmaxFramework.nuproj", "{EB4B6DBB-C36F-4EAA-AF5E-6DDF244DE724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB4B6DBB-C36F-4EAA-AF5E-6DDF244DE724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4B6DBB-C36F-4EAA-AF5E-6DDF244DE724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4B6DBB-C36F-4EAA-AF5E-6DDF244DE724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4B6DBB-C36F-4EAA-AF5E-6DDF244DE724}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.FileWidth = 80
+		$2.TabsToSpaces = True
+		$2.scope = text/plain
+		$0.StandardHeader = $3
+		$0.VersionControlPolicy = $4
+		description = @\nOmaxFramework is .NetFramwork that allows developers to focus on rapid develoment by leveraging powerful functions.
+		version = 1.1
+	EndGlobalSection
+EndGlobal
